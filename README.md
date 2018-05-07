@@ -1,9 +1,9 @@
 # WrapViewPager
 
 
-## Add Backpack to your project
+## Add WrapViewPager to your project
 
-1. Add Backpack to your root build.gradle at the end of repositories:
+1. Add WrapViewPager to your root build.gradle at the end of repositories:
 ```
 allprojects {
     repositories {
